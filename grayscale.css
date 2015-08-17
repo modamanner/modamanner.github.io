@@ -166,10 +166,16 @@ a:focus {
     font-size: 30px;
 }
 
+.dropdown-menu{
+    text-align:right;
+    background-color:gray;
+}
+
 .intro .intro-body .intro-text {
     font-size: 18px;
-    color:#cdd0d7;
+    color:#FFFFFF;
     text-align:left;
+    font-family:Helvetica;
 }
 
 @media(min-width:768px) {
