@@ -69,6 +69,7 @@ a:focus {
     background-color: #000;
 }
 
+
 .navbar-custom .navbar-brand {
     font-weight: 700;
 }
@@ -162,8 +163,7 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
-    text-align:left;
+    font-size: 30px;
 }
 
 .intro .intro-body .intro-text {
